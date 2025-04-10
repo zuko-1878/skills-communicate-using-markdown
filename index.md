@@ -7,7 +7,7 @@ user_name = "Dave"
 if user_name == "Dave":   
     print("Get off my computer Dave!")   
 elif user_name == "not Dave":   
-    print("I know it is you, Dave! Go away!")   
+    print("I know it is you, Dave!")   
 elif user_name == "Open Sesame":   
     print("Access Granted.")   
 else:   
