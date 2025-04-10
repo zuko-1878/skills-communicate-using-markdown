@@ -9,9 +9,9 @@ if user_name == "Dave":
 elif user_name == "not Dave":   
     print("I know it is you, Dave!")   
 elif user_name == "Open Sesame":   
-    print("Access Granted.")   
+    print("Access Granted")   
 else:   
-    print("Username not recognized.")  
+    print("Username not recognized")  
 ```
 
 - [ ]  Wake up
