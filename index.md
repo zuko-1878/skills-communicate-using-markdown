@@ -13,3 +13,7 @@ elif user_name == "Open Sesame":
 else:   
     print("Username not recognized.")  
 ```
+
+- [ ] Wake up
+- [ ] Get out of bed
+- [ ] Drag a comb across my head
