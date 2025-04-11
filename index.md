@@ -14,6 +14,6 @@ else:
     print("Username not recognized.")  
 ```
 
-- [ ] Wake up
-- [ ] Get out of bed
-- [ ] Drag a comb across my head
+- [ ] Woke up
+- [ ] Fell out of bed
+- [ ] Dragged a comb across my head
